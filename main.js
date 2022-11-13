@@ -45,7 +45,7 @@ document.querySelector("#app").innerHTML = `
           "02/12",
           "Sexta-Feira",
           createGame("serbia", "switzerland", "16:00") +
-            createGame("brazil", "cameroon", "13:00")
+            createGame("brazil", "cameroon", "16:00")
         )}
 
       </main>
